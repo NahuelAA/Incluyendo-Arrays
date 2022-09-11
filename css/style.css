@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+.recuadro{
+    width: 300px;
+    padding-top: 40px;
+    
+    margin-right: auto;
+    margin-left: auto;
+}
